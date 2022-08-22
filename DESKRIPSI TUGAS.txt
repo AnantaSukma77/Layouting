@@ -1,0 +1,2 @@
+Tugas dikerjakan sesuai dengan layout di figma.
+Tampilan mobile menggunakan batas lebar maksimal 600px
